@@ -14,12 +14,6 @@
 
 Computer Science student at the Catholic University of Pernambuco. Improving my skills in programming languages. Data Analysis Enthusiast.
 <br />
-
-I'm currently based in **[Pernambuco, Brasil.](https://www.google.com/maps/place/Pernambuco/@-6.6154773,-42.1805699,6z/data=!3m1!4b1!4m6!3m5!1s0x7007c9d931c86c5:0x1de0196a93401726!8m2!3d-8.8137173!4d-36.954107!16zL20vMDFoZHBw?entry=ttu)**
-
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything **[here](https://github.com/liralves)** or <a href="mailto:larissa.liraalves16@gmail.com"><b>send me an email</b></a>.
-<br />
 <br />
 <br />
 ## Technologies and Tools
