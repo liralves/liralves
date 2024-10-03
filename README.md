@@ -1,14 +1,6 @@
 <div align="center">
 <h2> Hi There, Welcome to my Github profile.</h2>
-<a href="https://linkedin.com/in/luana-liraa" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-<a href="https://medium.com/@liravs" target="_blank">
-<img src=https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;"/>
-</a>
-<a href="https://www.hackerrank.com/profile/larissa_liraalv1" target="_blank">
-<img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=HackerRank style="margin-bottom: 5px;"/>
-</a>
+
 <br />
 <br />
 
