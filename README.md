@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=LIRALVES&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Ciência da Computação pela UNICAP<br/> Explorando as magnitudes de áreas neste mundo da tecnologia! Entusiasta da programação.</p>
+<p>Estudante de Ciência da Computação pela UNICAP<br/> Explorando as magnitudes de áreas neste mundo da tecnologia! Entusiasta da programação.</p>
