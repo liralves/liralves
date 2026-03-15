@@ -8,5 +8,5 @@
 Exploring the magnitudes of this technological universe.  
 Data Enthusiast
 
-<div align="left">Data Analysis - Python -  PowerBI - SQL - Databricks - Data Visualization</div>
+<div align="left">Data Analysis - Python -  AI Agent - SQL/MySQL Server - Databricks - Data Visualization</div>
 
