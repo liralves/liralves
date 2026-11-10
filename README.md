@@ -6,7 +6,7 @@
 ### Hi, welcome to my profile!
 **Computer Science Undergraduate**  
 Exploring the magnitudes of this technological universe.  
-Data Enthusiast
+SAP Analyst 
 
-<div align="left">Data Analysis - Python -  AI Agent - SQL/MySQL Server - Databricks - Data Visualization</div>
+<div align="left">Data Analysis - SAP Analysis -  Copilot AI - SQL/MySQL Server - Databricks - Data Visualization</div>
 
